@@ -42,11 +42,11 @@ cd Churn_Prediction_ML_Project
 
 Tools & Libraries
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Scikit-learn,
+Matplotlib,
 Seaborn
 
 Future Improvements
